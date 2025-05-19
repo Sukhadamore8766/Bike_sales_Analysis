@@ -1,6 +1,6 @@
 # Bike_sales_Analysis
 
-<img src="./microsoft-excel.png" width="300" height="150"/>&nbsp;
+<img src="bike.jpg" width="300" height="150"/>&nbsp;
 
 
 ## Overview : 
