@@ -34,4 +34,4 @@ This dashboard is for presenting my insights to the regional manager of the coff
 - Consider Regional Strategies: Analyze the specific needs and preferences within Europe, North America, and the Pacific to refine marketing and product offerings accordingly.
 
 ## Dashboard :
-<img src="COFFEE_SALES_DASHBOARD_IMG.png" width="2500" height="600"/>&nbsp;
+<img src="Dashboard_img.png" width="2500" height="600"/>&nbsp;
