@@ -4,9 +4,9 @@
 
 
 ## Overview : 
-This dashboard is for presenting my insights to the regional manager of the coffee chain with 3 different stores.I have created a dashboard which can help me discuss the operations of these stores with my higher-ups. This will be done solely to optimize the operations.
-
+This repository presents an interactive Bike Sales Dashboard, meticulously developed using Microsoft Excel. The dashboard provides comprehensive insights into various aspects of bike sales, enabling data-driven decision-making and a deeper understanding of customer demographics and purchasing behavior.
 ## Tool used :
+
 <img src="./microsoft-excel.png" width="300" height="150"/>&nbsp;
 
 
